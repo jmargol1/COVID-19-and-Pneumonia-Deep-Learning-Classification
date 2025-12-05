@@ -3,7 +3,8 @@ Deep Learning final project applying deep learning image recognition methods to 
 
 ### File Structure
 - DL_Final.ipynb --> Preprocessing, and model building source code
-- 
+- Deep Learning Presentation.pdf --> Demo slides
+- Final Report.pdf --> Final report write-up
 
 ### Running the Source Code
 - Download and open the file DL_Final.ipynb in google colab or follow this link https://colab.research.google.com/drive/1z6X-NNcO1M8ETKlUf540bF3ZMxBZ2IzS?usp=sharing
